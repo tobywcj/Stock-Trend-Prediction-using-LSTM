@@ -1,2 +1,4 @@
-StockPrice/
 Company Sentiment Analysis/
+train/
+model/
+.DS_Store

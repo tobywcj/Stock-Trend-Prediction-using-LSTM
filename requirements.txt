@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+plotly
+scikit-learn
+tensorflow
+keras
+pandas-datareader
+yfinance
+datetime
+copy
+streamlit
