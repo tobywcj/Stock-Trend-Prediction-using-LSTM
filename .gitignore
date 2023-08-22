@@ -1,4 +1,7 @@
-Company Sentiment Analysis/
+# Ignore specific folder
+Sentiment/
 train/
-model/
+models/
+
+# Ignore .DS_Store files
 .DS_Store
