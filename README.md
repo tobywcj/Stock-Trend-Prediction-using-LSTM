@@ -20,9 +20,7 @@ This is extended to forecast the price trend over a user-adjusted number of days
 - Users can select a stock, view model-predicted stock price history, and get next-day predictions as well as a forecast trend.
 
 - The app is deployed on Streamlit Cloud for easy access and FREE: 
-    ```sh
     [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stock-trend-prediction-lstm-analysis.streamlit.app/)
-    ```
 
 
 ## 📦 This Repository contains:
