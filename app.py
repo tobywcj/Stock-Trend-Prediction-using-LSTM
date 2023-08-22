@@ -216,7 +216,7 @@ if __name__ == "__main__":
     with st.spinner(f'Predicting {ticker} Stock Price ...'):
       price_df, past_data_scaled, sc, rmse = get_pred_price_history(model, price_df)
       plot_data(price_df)
-      st.write(f"Root Mean Squared Error on Previous Stock Price: ${rmse} ")
+      st.write(f"Root Mean Squared Error on Stock Price HIstory: ${rmse} ")
     
 
     st.divider()
