@@ -176,7 +176,8 @@ if __name__ == "__main__":
   ############################################################ MAIN PAGE widgets ############################################################
 
   st.title("📈 Stock Trend Prediction")
-  st.markdown("This app predicts the stock market trend using LSTM Neural Network.")
+  st.markdown("""This app provides a web application interface for users to select a stock ticker and visualize the next-day stock price prediction, 
+              as well as forecast the future trends using Long Short-Term Memory (LSTM) neural networks 🧠""")
 
   st.divider()
 

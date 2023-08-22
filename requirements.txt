@@ -8,5 +8,4 @@ keras
 pandas-datareader
 yfinance
 datetime
-copy
 streamlit

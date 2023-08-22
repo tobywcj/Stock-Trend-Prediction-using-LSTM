@@ -1,4 +1,5 @@
 # Ignore specific folder
+/StocksAnalysis
 Sentiment/
 train/
 
