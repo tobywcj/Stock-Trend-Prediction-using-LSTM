@@ -1,5 +1,5 @@
 # Ignore specific folder
-# Sentiment/
+Sentiment/
 train/
 
 # # Ignore .DS_Store files
