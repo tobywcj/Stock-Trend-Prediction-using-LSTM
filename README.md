@@ -73,17 +73,16 @@ This is extended to forecast the price trend over a user-adjusted number of days
 ## ⚠️ Pitfalls
 - The model learns that the next closing price wouldn't be far from the current closing price, leading to predictions that are close to the current price. 📉📈
 
-- Predicting if the price will move up or down by a certain amount doesn't work well. 📊❌
-
 
 ## 💡 Note:
-- The project utilizes the Yahoo Finance API to fetch stock price data. 📊🔍
+- Stock market price is inherently a random walk. An LSTM, let alone any kind of machine learning model, can’t predict something that is inherently random.(sometimes even a monkey can outperform a fund manager!) 📉🧠
+
+- The project is solely for the educational value, which is a good way to learn tackling time series data using LSTM. 📊🔍
 
 - The LSTM model is trained on historical data, and its predictions and forecasts should be treated as informative indicators rather than guaranteed predictions. 📉🔮
 
 - Modifications to the code, such as adding technical indicators and improving hyperparameters, are suggested to enhance the model's performance. 🛠️✨
 
-- Predicting price movements is a challenging task for LSTM models. 📉🧠
 
 
 ## 🧠 Learnings
